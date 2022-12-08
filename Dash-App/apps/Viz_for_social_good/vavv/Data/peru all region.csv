@@ -1,0 +1,101 @@
+Year,Service Type,Service Level,Coverage,ISO3,Region,,
+2016,Drinking water,At least basic,85.21189635316148,PER,Amazonas,ENDES16,TRUE
+2016,Drinking water,Limited service,1.065401768196893,PER,Amazonas,ENDES16,TRUE
+2016,Drinking water,Surface water,9.074980651883717,PER,Amazonas,ENDES16,TRUE
+2016,Drinking water,Unimproved,4.647721226757909,PER,Amazonas,ENDES16,TRUE
+2016,Drinking water,At least basic,94.90784729872342,PER,Ancash,ENDES16,TRUE
+2016,Drinking water,Limited service,0.6282532944705871,PER,Ancash,ENDES16,TRUE
+2016,Drinking water,Surface water,1.799890687121712,PER,Ancash,ENDES16,TRUE
+2016,Drinking water,Unimproved,2.664008719684276,PER,Ancash,ENDES16,TRUE
+2016,Drinking water,At least basic,93.02511957187058,PER,Apurimac,ENDES16,TRUE
+2016,Drinking water,Limited service,0.120172106950444,PER,Apurimac,ENDES16,TRUE
+2016,Drinking water,Surface water,1.771953988011685,PER,Apurimac,ENDES16,TRUE
+2016,Drinking water,Unimproved,5.082754333167287,PER,Apurimac,ENDES16,TRUE
+2016,Drinking water,At least basic,97.59734014417322,PER,Arequipa,ENDES16,TRUE
+2016,Drinking water,Limited service,0.5484503272244389,PER,Arequipa,ENDES16,TRUE
+2016,Drinking water,Surface water,0.1462996850328981,PER,Arequipa,ENDES16,TRUE
+2016,Drinking water,Unimproved,1.707909843569439,PER,Arequipa,ENDES16,TRUE
+2016,Drinking water,At least basic,95.24671407230316,PER,Ayacucho,ENDES16,TRUE
+2016,Drinking water,Limited service,0.1876223253263013,PER,Ayacucho,ENDES16,TRUE
+2016,Drinking water,Surface water,1.061636585524537,PER,Ayacucho,ENDES16,TRUE
+2016,Drinking water,Unimproved,3.504027016845995,PER,Ayacucho,ENDES16,TRUE
+2016,Drinking water,At least basic,88.97286235895862,PER,Cajamarca,ENDES16,TRUE
+2016,Drinking water,Limited service,0.7588922747656227,PER,Cajamarca,ENDES16,TRUE
+2016,Drinking water,Surface water,1.642887675592301,PER,Cajamarca,ENDES16,TRUE
+2016,Drinking water,Unimproved,8.625357690683444,PER,Cajamarca,ENDES16,TRUE
+2016,Drinking water,At least basic,98.05233607429174,PER,Callao,ENDES16,TRUE
+2016,Drinking water,Limited service,1.032086973934541,PER,Callao,ENDES16,TRUE
+2016,Drinking water,Surface water,0,PER,Callao,ENDES16,TRUE
+2016,Drinking water,Unimproved,0.9155769517737156,PER,Callao,ENDES16,TRUE
+2016,Drinking water,At least basic,94.34425311589537,PER,Cusco,ENDES16,TRUE
+2016,Drinking water,Limited service,1.111065360271843,PER,Cusco,ENDES16,TRUE
+2016,Drinking water,Surface water,0.4246218917128303,PER,Cusco,ENDES16,TRUE
+2016,Drinking water,Unimproved,4.120059632119961,PER,Cusco,ENDES16,TRUE
+2016,Drinking water,At least basic,92.42090665477922,PER,Huancavelica,ENDES16,TRUE
+2016,Drinking water,Limited service,0.694063131321037,PER,Huancavelica,ENDES16,TRUE
+2016,Drinking water,Surface water,0.4469194432043537,PER,Huancavelica,ENDES16,TRUE
+2016,Drinking water,Unimproved,6.438110770695403,PER,Huancavelica,ENDES16,TRUE
+2016,Drinking water,At least basic,79.80438246014732,PER,Huanuco,ENDES16,TRUE
+2016,Drinking water,Limited service,1.353790286619429,PER,Huanuco,ENDES16,TRUE
+2016,Drinking water,Surface water,6.572097827062411,PER,Huanuco,ENDES16,TRUE
+2016,Drinking water,Unimproved,12.26972942617084,PER,Huanuco,ENDES16,TRUE
+2016,Drinking water,At least basic,95.21679199965506,PER,Ica,ENDES16,TRUE
+2016,Drinking water,Limited service,0.4816861852815686,PER,Ica,ENDES16,TRUE
+2016,Drinking water,Surface water,0.1150874589657031,PER,Ica,ENDES16,TRUE
+2016,Drinking water,Unimproved,4.186434356097664,PER,Ica,ENDES16,TRUE
+2016,Drinking water,At least basic,93.53176268196947,PER,Junin,ENDES16,TRUE
+2016,Drinking water,Limited service,0.208413777009684,PER,Junin,ENDES16,TRUE
+2016,Drinking water,Surface water,2.294811814468013,PER,Junin,ENDES16,TRUE
+2016,Drinking water,Unimproved,3.965011726552831,PER,Junin,ENDES16,TRUE
+2016,Drinking water,At least basic,94.97763433548775,PER,La Libertad,ENDES16,TRUE
+2016,Drinking water,Limited service,1.026939479233001,PER,La Libertad,ENDES16,TRUE
+2016,Drinking water,Surface water,0.5939320485454173,PER,La Libertad,ENDES16,TRUE
+2016,Drinking water,Unimproved,3.401494136733831,PER,La Libertad,ENDES16,TRUE
+2016,Drinking water,At least basic,90.30219300073004,PER,Lambayeque,ENDES16,TRUE
+2016,Drinking water,Limited service,1.468420287685408,PER,Lambayeque,ENDES16,TRUE
+2016,Drinking water,Surface water,2.789531156065236,PER,Lambayeque,ENDES16,TRUE
+2016,Drinking water,Unimproved,5.439855555519316,PER,Lambayeque,ENDES16,TRUE
+2016,Drinking water,At least basic,98.12125387040041,PER,Lima,ENDES16,TRUE
+2016,Drinking water,Limited service,0.3710081230918106,PER,Lima,ENDES16,TRUE
+2016,Drinking water,Surface water,0.10859635240964,PER,Lima,ENDES16,TRUE
+2016,Drinking water,Unimproved,1.399141654098145,PER,Lima,ENDES16,TRUE
+2016,Drinking water,At least basic,66.02557930198937,PER,Loreto,ENDES16,TRUE
+2016,Drinking water,Limited service,0.7613789253707921,PER,Loreto,ENDES16,TRUE
+2016,Drinking water,Surface water,21.45109765692849,PER,Loreto,ENDES16,TRUE
+2016,Drinking water,Unimproved,11.76194411571134,PER,Loreto,ENDES16,TRUE
+2016,Drinking water,At least basic,93.37840690368127,PER,Madre De Dios,ENDES16,TRUE
+2016,Drinking water,Limited service,0.0772411535056619,PER,Madre De Dios,ENDES16,TRUE
+2016,Drinking water,Surface water,2.270758511829843,PER,Madre De Dios,ENDES16,TRUE
+2016,Drinking water,Unimproved,4.273593430983226,PER,Madre De Dios,ENDES16,TRUE
+2016,Drinking water,At least basic,97.10577335555297,PER,Moquegua,ENDES16,TRUE
+2016,Drinking water,Limited service,0.4024456055672349,PER,Moquegua,ENDES16,TRUE
+2016,Drinking water,Surface water,0,PER,Moquegua,ENDES16,TRUE
+2016,Drinking water,Unimproved,2.491781038879793,PER,Moquegua,ENDES16,TRUE
+2016,Drinking water,At least basic,81.69670836046838,PER,Pasco,ENDES16,TRUE
+2016,Drinking water,Limited service,0.9825664851917986,PER,Pasco,ENDES16,TRUE
+2016,Drinking water,Surface water,4.706576443285012,PER,Pasco,ENDES16,TRUE
+2016,Drinking water,Unimproved,12.61414871105481,PER,Pasco,ENDES16,TRUE
+2016,Drinking water,At least basic,84.33057501801969,PER,Piura,ENDES16,TRUE
+2016,Drinking water,Limited service,2.812124024961786,PER,Piura,ENDES16,TRUE
+2016,Drinking water,Surface water,7.4174826112293,PER,Piura,ENDES16,TRUE
+2016,Drinking water,Unimproved,5.43981834578922,PER,Piura,ENDES16,TRUE
+2016,Drinking water,At least basic,80.34906600042653,PER,Puno,ENDES16,TRUE
+2016,Drinking water,Limited service,0.98542012240601,PER,Puno,ENDES16,TRUE
+2016,Drinking water,Surface water,1.465557008156825,PER,Puno,ENDES16,TRUE
+2016,Drinking water,Unimproved,17.19995686901063,PER,Puno,ENDES16,TRUE
+2016,Drinking water,At least basic,90.45835096808467,PER,San Martin,ENDES16,TRUE
+2016,Drinking water,Limited service,0.7077527559419474,PER,San Martin,ENDES16,TRUE
+2016,Drinking water,Surface water,3.256145419452749,PER,San Martin,ENDES16,TRUE
+2016,Drinking water,Unimproved,5.577750856520623,PER,San Martin,ENDES16,TRUE
+2016,Drinking water,At least basic,98.77101473962887,PER,Tacna,ENDES16,TRUE
+2016,Drinking water,Limited service,0.4091322141678026,PER,Tacna,ENDES16,TRUE
+2016,Drinking water,Surface water,0.0246399163253378,PER,Tacna,ENDES16,TRUE
+2016,Drinking water,Unimproved,0.7952131298779932,PER,Tacna,ENDES16,TRUE
+2016,Drinking water,At least basic,90.9870609568133,PER,Tumbes,ENDES16,TRUE
+2016,Drinking water,Limited service,1.057155282568447,PER,Tumbes,ENDES16,TRUE
+2016,Drinking water,Surface water,0.1559590498389222,PER,Tumbes,ENDES16,TRUE
+2016,Drinking water,Unimproved,7.799824710779333,PER,Tumbes,ENDES16,TRUE
+2016,Drinking water,At least basic,80.66592679716263,PER,Ucayali,ENDES16,TRUE
+2016,Drinking water,Limited service,0.2675942470811174,PER,Ucayali,ENDES16,TRUE
+2016,Drinking water,Surface water,7.339817950782929,PER,Ucayali,ENDES16,TRUE
+2016,Drinking water,Unimproved,11.72666100497332,PER,Ucayali,ENDES16,TRUE

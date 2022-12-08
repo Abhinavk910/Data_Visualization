@@ -1,0 +1,65 @@
+Year,Service Type,Service Level,Coverage,ISO3,Region,,
+2016,Drinking water,At least basic,84.33057501801969,PER,Piura,ENDES16,TRUE
+2016,Sanitation,At least basic,72.59601871817097,PER,Piura,ENDES16,TRUE
+2016,Drinking water,Limited service,2.812124024961786,PER,Piura,ENDES16,TRUE
+2016,Sanitation,Limited service,9.726635747351091,PER,Piura,ENDES16,TRUE
+2016,Sanitation,Open defecation,10.73972003533524,PER,Piura,ENDES16,TRUE
+2016,Drinking water,Surface water,7.4174826112293,PER,Piura,ENDES16,TRUE
+2016,Drinking water,Unimproved,5.43981834578922,PER,Piura,ENDES16,TRUE
+2016,Sanitation,Unimproved,6.937625499142698,PER,Piura,ENDES16,TRUE
+2012,Drinking water,At least basic,78.49396512057311,PER,Piura,DHS12,FALSE
+2012,Sanitation,At least basic,65.80618708865231,PER,Piura,DHS12,FALSE
+2012,Drinking water,Limited service,6.640487287857594,PER,Piura,DHS12,FALSE
+2012,Sanitation,Limited service,5.395145161032517,PER,Piura,DHS12,FALSE
+2012,Sanitation,Open defecation,20.80416124401491,PER,Piura,DHS12,FALSE
+2012,Drinking water,Surface water,6.223222593731387,PER,Piura,DHS12,FALSE
+2012,Drinking water,Unimproved,8.642324997837903,PER,Piura,DHS12,FALSE
+2012,Sanitation,Unimproved,7.994506506300269,PER,Piura,DHS12,FALSE
+2011,Drinking water,At least basic,76.60642245117923,PER,Piura,DHS11,FALSE
+2011,Sanitation,At least basic,72.8318796156874,PER,Piura,DHS11,FALSE
+2011,Drinking water,Limited service,7.116443615683316,PER,Piura,DHS11,FALSE
+2011,Sanitation,Limited service,4.899017207772381,PER,Piura,DHS11,FALSE
+2011,Sanitation,Open defecation,11.08854847695515,PER,Piura,DHS11,FALSE
+2011,Drinking water,Surface water,9.12203638721578,PER,Piura,DHS11,FALSE
+2011,Drinking water,Unimproved,7.155097545921677,PER,Piura,DHS11,FALSE
+2011,Sanitation,Unimproved,11.18055469958507,PER,Piura,DHS11,FALSE
+2010,Drinking water,At least basic,74.09725612930039,PER,Piura,DHS10,FALSE
+2010,Sanitation,At least basic,68.4065769382666,PER,Piura,DHS10,FALSE
+2010,Drinking water,Limited service,8.578850522174871,PER,Piura,DHS10,FALSE
+2010,Sanitation,Limited service,2.835737047665294,PER,Piura,DHS10,FALSE
+2010,Sanitation,Open defecation,18.68943420463881,PER,Piura,DHS10,FALSE
+2010,Drinking water,Surface water,9.778043986333449,PER,Piura,DHS10,FALSE
+2010,Drinking water,Unimproved,7.545849362191291,PER,Piura,DHS10,FALSE
+2010,Sanitation,Unimproved,10.0682518094293,PER,Piura,DHS10,FALSE
+2009,Drinking water,At least basic,73.56408582740215,PER,Piura,DHS09,FALSE
+2009,Sanitation,At least basic,55.64117160043662,PER,Piura,DHS09,FALSE
+2009,Drinking water,Limited service,7.80622974827907,PER,Piura,DHS09,FALSE
+2009,Sanitation,Limited service,4.908316261862146,PER,Piura,DHS09,FALSE
+2009,Sanitation,Open defecation,26.37605016414458,PER,Piura,DHS09,FALSE
+2009,Drinking water,Surface water,9.599343395052937,PER,Piura,DHS09,FALSE
+2009,Drinking water,Unimproved,9.030341029265841,PER,Piura,DHS09,FALSE
+2009,Sanitation,Unimproved,13.07446197355665,PER,Piura,DHS09,FALSE
+2008,Drinking water,At least basic,74.1145205455155,PER,Piura,DHS08,FALSE
+2008,Sanitation,At least basic,55.87631994143653,PER,Piura,DHS08,FALSE
+2008,Drinking water,Limited service,5.574687113192843,PER,Piura,DHS08,FALSE
+2008,Sanitation,Limited service,2.886743708584055,PER,Piura,DHS08,FALSE
+2008,Sanitation,Open defecation,26.35592166990376,PER,Piura,DHS08,FALSE
+2008,Drinking water,Surface water,8.506921092873755,PER,Piura,DHS08,FALSE
+2008,Drinking water,Unimproved,11.80387124841791,PER,Piura,DHS08,FALSE
+2008,Sanitation,Unimproved,14.88101468007565,PER,Piura,DHS08,FALSE
+2006,Drinking water,At least basic,74.1145205455155,PER,Piura,DHS06,FALSE
+2006,Sanitation,At least basic,55.87631994143653,PER,Piura,DHS06,FALSE
+2006,Drinking water,Limited service,5.574687113192843,PER,Piura,DHS06,FALSE
+2006,Sanitation,Limited service,2.886743708584055,PER,Piura,DHS06,FALSE
+2006,Sanitation,Open defecation,26.35592166990376,PER,Piura,DHS06,FALSE
+2006,Drinking water,Surface water,8.506921092873755,PER,Piura,DHS06,FALSE
+2006,Drinking water,Unimproved,11.80387124841791,PER,Piura,DHS06,FALSE
+2006,Sanitation,Unimproved,14.88101468007565,PER,Piura,DHS06,FALSE
+2000,Drinking water,At least basic,79.7639959146253,PER,Piura,DHS00,FALSE
+2000,Sanitation,At least basic,57.6750084281239,PER,Piura,DHS00,FALSE
+2000,Drinking water,Limited service,2.871210872225271,PER,Piura,DHS00,FALSE
+2000,Sanitation,Limited service,0.143012773289716,PER,Piura,DHS00,FALSE
+2000,Sanitation,Open defecation,30.53003533568911,PER,Piura,DHS00,FALSE
+2000,Drinking water,Surface water,5.001767408978449,PER,Piura,DHS00,FALSE
+2000,Drinking water,Unimproved,12.36302580417097,PER,Piura,DHS00,FALSE
+2000,Sanitation,Unimproved,11.65194346289726,PER,Piura,DHS00,FALSE

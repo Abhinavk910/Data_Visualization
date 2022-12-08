@@ -1,0 +1,154 @@
+:root{
+  --mainColor:#cda45e;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #eee;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+
+
+.new_container{
+  margin: 0px;
+  padding: 0px;
+  display: grid;
+  /* grid-template-columns: [col-start] 1fr [col-2] 1fr [col-3] 1fr [col-end]; */
+  grid-template-rows: 60px auto 100px;
+  grid-template-areas:
+  "h"
+  "m"
+  "f";
+}
+
+.header{
+  grid-area: h;
+  background: blue;
+}
+.main{
+  grid-area: m;
+  background-color: #ffffff;
+  padding: 50px 100px;
+  gridx
+}
+.main .section-1{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-auto-rows: minmax(100px, auto);
+  grid-gap: 1em;
+  padding: 1em;
+}
+
+.section-1 .box1 {
+  background-color: red;
+  grid-row:
+}
+
+
+/* .new_container .sidebar{
+  grid-area: s;
+  background-color: #f1f3f6;
+} */
+.new_container .footer{
+  grid-area: f;
+  background-color: #f9fafb;
+  padding: 0px 100px;
+}
+
+
+.social-media{
+  display: block;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+@media (max-width:991px){
+  .social-media{
+    margin:20px;
+  }
+}
+@media (max-width:767px){
+  .social-media{
+    margin:20px;
+
+  }
+}
+.social-media a{
+  border: 1px solid #000;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 4px;
+  text-decoration: none;
+}
+
+.social-media a span{
+  color: #4d4d4d;
+}
+
+.social-media a:hover{
+  background: var(--mainColor);
+  /* border-color: var(--mainColor); */
+}
+
+.social-media a:hover span{
+  color: #fff;
+}
+
+.mini_container {
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+    min-width: 200px;
+    /* min-height: 125px; */
+    box-shadow: 2px 2px 12px #fff;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+}
+
+.medium_container {
+  min-height: 125px;
+  max-height: 125px;
+  /* margin: auto; */
+}
+.small_container {
+  min-height: 60px;
+}
+
+
+.mini_container:hover{
+  background: var(--mainColor);
+  color: #fff;
+}
+
+.social-media2{
+  display: block;
+  padding: 10px;
+}
+.social-media2 a span{
+  font-size: 30px!important;
+  border-radius: 5%;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.social-media2 span{
+  text-align: left;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px!important;
+}
+.card H6{
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px!important;
+}
+
+.dropdown_color{
+  color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,182 @@
+year,Region,State,Sales
+2017,Central,South Dakota,162.2
+2017,Central,Nebraska,210.0
+2017,West,Montana,424.5
+2017,West,Idaho,465.2
+2017,East,New Hampshire,504.5
+2017,East,Maine,617.1
+2017,West,New Mexico,708.0
+2017,Central,Iowa,1190.8
+2017,Central,Kansas,1319.8
+2017,Central,Missouri,1648.0
+2017,East,Maryland,1701.2
+2017,South,Mississippi,2055.2
+2017,South,South Carolina,2270.9
+2017,South,Louisiana,2534.9
+2017,West,Nevada,2561.2
+2017,Central,Oklahoma,2639.4
+2017,East,Connecticut,2794.0
+2017,Central,Indiana,2936.8
+2017,West,Utah,2943.7
+2017,South,Tennessee,3051.5
+2017,East,New Jersey,4192.3
+2017,South,Georgia,4540.1
+2017,East,Delaware,4786.0
+2017,West,Oregon,4807.8
+2017,Central,Wisconsin,4847.7
+2017,East,Rhode Island,5015.7
+2017,South,Alabama,6139.1
+2017,Central,Michigan,6172.3
+2017,South,Arkansas,6302.7
+2017,West,Colorado,6502.3
+2017,South,Kentucky,8280.5
+2017,West,Arizona,8295.2
+2017,South,North Carolina,8620.7
+2017,East,Massachusetts,9900.1
+2017,East,Ohio,14134.9
+2017,Central,Minnesota,15883.3
+2017,Central,Illinois,16202.7
+2017,East,Pennsylvania,20246.1
+2017,South,Virginia,25802.1
+2017,West,Washington,29871.6
+2017,South,Florida,34248.3
+2017,Central,Texas,50625.2
+2017,East,New York,64788.5
+2017,West,California,91303.5
+2018,East,Maine,106.1
+2018,Central,Kansas,170.3
+2018,South,Mississippi,302.2
+2018,South,Arkansas,443.6
+2018,Central,Nebraska,594.1
+2018,South,Louisiana,917.8
+2018,West,Montana,935.6
+2018,East,Rhode Island,1099.6
+2018,West,New Mexico,1192.9
+2018,East,Connecticut,1284.6
+2018,West,Idaho,1500.2
+2018,Central,Iowa,1713.2
+2018,West,Nevada,1948.5
+2018,East,District of Columbia,2670.2
+2018,Central,Oklahoma,2808.3
+2018,South,Alabama,3892.0
+2018,West,Utah,3993.3
+2018,East,New Jersey,4105.1
+2018,South,South Carolina,4147.6
+2018,West,Oregon,4285.9
+2018,East,New Hampshire,4345.0
+2018,West,Colorado,4639.3
+2018,East,Vermont,5120.1
+2018,Central,Minnesota,5724.2
+2018,East,Delaware,6190.3
+2018,East,Massachusetts,6626.0
+2018,Central,Indiana,6640.3
+2018,Central,Missouri,6985.2
+2018,South,Kentucky,7673.6
+2018,East,Maryland,7843.1
+2018,Central,Wisconsin,8361.8
+2018,South,Tennessee,8366.0
+2018,South,North Carolina,8558.3
+2018,West,Arizona,9611.2
+2018,South,Virginia,10543.4
+2018,South,Georgia,11338.0
+2018,South,Florida,15177.4
+2018,East,Ohio,16110.4
+2018,Central,Michigan,16843.7
+2018,Central,Illinois,18578.1
+2018,East,Pennsylvania,20510.8
+2018,West,Washington,23415.5
+2018,Central,Texas,34455.0
+2018,East,New York,80320.7
+2018,West,California,88443.8
+2019,West,New Mexico,64.1
+2019,East,District of Columbia,117.1
+2019,South,Louisiana,262.8
+2019,South,South Carolina,502.5
+2019,East,Maine,547.3
+2019,Central,Kansas,691.1
+2019,East,New Hampshire,933.6
+2019,Central,Iowa,959.3
+2019,West,Idaho,1183.5
+2019,Central,Minnesota,1527.4
+2019,West,Wyoming,1603.1
+2019,West,Utah,1822.4
+2019,South,Arkansas,2224.2
+2019,East,Delaware,2719.7
+2019,East,Vermont,2967.1
+2019,Central,Nebraska,3081.4
+2019,South,Tennessee,3130.5
+2019,East,Massachusetts,3965.3
+2019,East,Connecticut,3998.5
+2019,Central,Missouri,4221.1
+2019,East,Maryland,4709.6
+2019,South,Kentucky,5102.9
+2019,South,Mississippi,5416.8
+2019,West,Oregon,5450.8
+2019,West,Arizona,6242.0
+2019,South,Alabama,7651.3
+2019,Central,Oklahoma,8009.8
+2019,West,Nevada,9081.3
+2019,West,Colorado,10666.7
+2019,East,Rhode Island,13085.6
+2019,Central,Wisconsin,13337.6
+2019,South,Florida,13603.3
+2019,South,Georgia,14057.7
+2019,South,North Carolina,14967.3
+2019,East,New Jersey,17983.4
+2019,West,Washington,19814.3
+2019,Central,Illinois,21033.7
+2019,East,Ohio,24748.0
+2019,Central,Indiana,25461.8
+2019,South,Virginia,26691.0
+2019,Central,Michigan,27420.0
+2019,East,Pennsylvania,33066.6
+2019,Central,Texas,41686.2
+2019,East,New York,71844.1
+2019,West,California,131551.9
+2020,East,District of Columbia,77.8
+2020,Central,Iowa,716.4
+2020,Central,Kansas,733.1
+2020,East,Vermont,842.2
+2020,Central,North Dakota,919.9
+2020,Central,South Dakota,1153.4
+2020,East,West Virginia,1209.8
+2020,West,Idaho,1233.5
+2020,East,New Hampshire,1509.4
+2020,South,South Carolina,1560.8
+2020,South,Alabama,1828.3
+2020,West,Utah,2460.6
+2020,South,Arkansas,2707.6
+2020,West,New Mexico,2818.6
+2020,West,Oregon,2886.6
+2020,South,Mississippi,2997.2
+2020,West,Nevada,3138.2
+2020,East,Rhode Island,3427.1
+2020,Central,Nebraska,3579.4
+2020,West,Montana,4229.3
+2020,East,Connecticut,5307.2
+2020,South,Louisiana,5501.6
+2020,Central,Wisconsin,5567.5
+2020,Central,Oklahoma,6225.9
+2020,Central,Minnesota,6728.2
+2020,South,Virginia,7600.2
+2020,East,Massachusetts,8143.1
+2020,Central,Missouri,9350.8
+2020,East,Maryland,9451.6
+2020,East,New Jersey,9483.5
+2020,West,Colorado,10299.8
+2020,West,Arizona,11133.5
+2020,East,Delaware,13755.0
+2020,South,Kentucky,15534.8
+2020,South,Tennessee,16113.8
+2020,Central,Indiana,18516.4
+2020,South,Georgia,19160.0
+2020,East,Ohio,23264.9
+2020,South,North Carolina,23456.8
+2020,Central,Illinois,24351.6
+2020,Central,Michigan,25833.6
+2020,South,Florida,26444.7
+2020,East,Pennsylvania,42688.3
+2020,Central,Texas,43421.8
+2020,West,Washington,65539.9
+2020,East,New York,93923.0
+2020,West,California,146388.3

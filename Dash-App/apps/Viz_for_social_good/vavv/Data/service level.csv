@@ -1,0 +1,31 @@
+Year,Service Type,Service Level,Coverage,ISO3,Residence Type,Population
+2000,Drinking water,Basic service,35.60501018792811,PER,total,9226994.95208914
+2000,Drinking water,Basic service,37.26937188442426,PER,rural,2603687.888110485
+2000,Drinking water,Basic service,34.99073441920538,PER,urban,6623307.241745962
+2000,Drinking water,Limited service,1.062030711808983,PER,total,275223.9632878295
+2000,Drinking water,Limited service,1.084754112651531,PER,rural,75782.36503280578
+2000,Drinking water,Limited service,1.05364403764068,PER,urban,199441.6036291487
+2000,Drinking water,Safely managed service,45.0694501941447,PER,total,11679693.033083363
+2000,Drinking water,Safely managed service,14.04683944626267,PER,rural,981330.8860123736
+2000,Drinking water,Safely managed service,56.51912947786366,PER,urban,10698362.460275939
+2000,Drinking water,Surface water,7.232215204245149,PER,total,1874219.746877581
+2000,Drinking water,Surface water,24.5380459914636,PER,rural,1714260.5285648159
+2000,Drinking water,Surface water,0.845059726918151,PER,urban,159959.20925663042
+2000,Drinking water,Unimproved,11.03129370187306,PER,total,2858746.3046620875
+2000,Drinking water,Unimproved,23.06098856519793,PER,rural,1611071.3322795192
+2000,Drinking water,Unimproved,6.59143233837213,PER,urban,1247675.485092321
+2017,Drinking water,Basic service,40.77721934714766,PER,total,13116189.964751685
+2017,Drinking water,Basic service,54.82792075359507,PER,rural,3929226.218290561
+2017,Drinking water,Basic service,36.74930210439514,PER,urban,9186963.177980036
+2017,Drinking water,Limited service,1.008393251199533,PER,total,324354.5698716656
+2017,Drinking water,Limited service,1.830626456194707,PER,rural,131191.28664212453
+2017,Drinking water,Limited service,0.772683555869023,PER,urban,193163.2703073949
+2017,Drinking water,Safely managed service,50.35065162384047,PER,total,16195530.791962147
+2017,Drinking water,Safely managed service,20.75066228793976,PER,rural,1487089.8839132052
+2017,Drinking water,Safely managed service,58.83608087008693,PER,urban,14708440.093764354
+2017,Drinking water,Surface water,2.642002978216586,PER,total,849813.0452377795
+2017,Drinking water,Surface water,10.86367938432227,PER,rural,778542.2696552431
+2017,Drinking water,Surface water,0.285094269094941,PER,urban,71270.75624424197
+2017,Drinking water,Unimproved,5.221732799595724,PER,total,1679595.6281767148
+2017,Drinking water,Unimproved,11.7271111179482,PER,rural,840419.8414988667
+2017,Drinking water,Unimproved,3.356839200553964,PER,urban,839176.7017039736
