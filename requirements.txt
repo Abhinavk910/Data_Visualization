@@ -26,3 +26,4 @@ scikit-image
 opencv-python-headless==4.2.0.32
 beautifulsoup4==4.9.1
 requests==2.23.0
+openpyxl
