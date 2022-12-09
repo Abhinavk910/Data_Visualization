@@ -107,7 +107,7 @@ www14_wiz = dbc.Container([
             dcc.Graph(id = 'www14-8', config={'displayModeBar': False},style={'height': '60vh', 'width': '100%','background':''}),
 
         ], sm = 12, md = 4, style = {'background':''} ),
-        ],no_gutters=True, className='m-0 p-0'),
+        ], className='m-0 p-0'),
         html.Hr(style = {'background': '', 'width': "100%"}, className='mt-1 mb-1 p-0'),
         dbc.Row([
             dbc.Col([
@@ -121,7 +121,7 @@ www14_wiz = dbc.Container([
                 html.A(html.P([html.Span("A"), "bhinav ",html.Span('K'), "umar"]), href = 'http://www.linkedin.com/in/abhinavk910', target="_blank")
             ], style = {'display': 'flex'}, sm = 12, md = 4)
 
-        ],no_gutters=False, justify="center", className='m-0 p-0')
+        ], justify="center", className='m-0 p-0')
 
 
 ], fluid=True,style = {'background': 'white'})

@@ -429,7 +429,7 @@ myown2_viz = html.Div([
                         style_cell={'whiteSpace': 'normal','height': 'auto'},   
     )],id='table_hidden_nlp1',hidden=True)
         ], sm=12, lg=2,className='mt-2 mb-0')
-    ], no_gutters=True, className='')
+    ], className='')
    ],  style={'background': 'rgb(25, 41, 48, 0.9)',
               "border-radius": "25px","box-shadow": "15px 0px 15px -10px rgba(0,0,0,0.75)"}, className='p-5 m-5'),
     html.Div([

@@ -1,6 +1,6 @@
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output
+
+import dash
+from dash import dcc, html,  Input, Output, State
 
 # Connect to main app.py file
 from app import app

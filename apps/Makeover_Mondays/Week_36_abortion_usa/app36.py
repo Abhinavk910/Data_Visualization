@@ -150,7 +150,7 @@ mmw36_viz = dbc.Row([
                                 ], sm=12, md=6)
                             ], style={'background':'#E9E5DF'}, className='m-0 p-2')
                         ]),
-                    ],no_gutters=True, style={'background': 'rgba(0,0,0)'}, className='p-0 m-0'),
+                    ], style={'background': 'rgba(0,0,0)'}, className='p-0 m-0'),
                     
                     dbc.Row([
                         dbc.Col([
@@ -169,4 +169,4 @@ mmw36_viz = dbc.Row([
                         className='pt-4 pl-4'),
                     
                 ], sm=12, md=6, lg=6, xl=6)
-            ], no_gutters=True, className='d-flex flex-column  align-items-center ')
+            ], className='d-flex flex-column  align-items-center ')

@@ -2,10 +2,9 @@ import pandas as pd
 import pathlib
 
 import dash
-import dash_core_components as dcc
+from dash import dcc, html,  Input, Output, State
 import dash_bootstrap_components as dbc
-import dash_html_components as html
-from dash.dependencies import Input, Output
+
 
 import plotly.express as px
 from plotly import graph_objs as go
@@ -61,7 +60,7 @@ refinery_layout =html.Div([
                                     html.Div([
                                         html.H5("Explore distribution of Refineries in India", className="card-title"),
 
-                                        dbc.FormGroup([
+                                        dbc.Container([
                                             dbc.Label("Select by Sector"),
                                             dcc.Dropdown(
 
@@ -70,7 +69,7 @@ refinery_layout =html.Div([
                                                 multi=True,
                                             ),
                                             ], className = ""),
-                                        dbc.FormGroup([
+                                        dbc.Container([
                                             dbc.Label("Select by Owner"),
                                             dcc.Dropdown(
                                                 id="company",
@@ -78,7 +77,7 @@ refinery_layout =html.Div([
                                                 multi=True,
                                             ),
                                             ]),
-                                        dbc.FormGroup([
+                                        dbc.Container([
                                             dbc.Label("Select Sunburst Chart Value"),
                                             dcc.Dropdown(id='sortvalue',
                                                 placeholder='Select type ',
@@ -88,7 +87,7 @@ refinery_layout =html.Div([
                                             ),
                                             ]),
                                         html.Hr(),
-                                        dbc.FormGroup([
+                                        dbc.Container([
                                             dbc.Label("Click on any refinery to get more information"),
                                             dcc.Markdown(id='plant_summary')
                                             ]),
