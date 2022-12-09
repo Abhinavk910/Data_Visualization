@@ -84,7 +84,7 @@ vfsg_tanzania = html.Div([
                     dbc.Col([
                         html.P('Slide the Image to See impact of Our initiative. Initial image showing the Total Count and after slide one is the count that has been added to OpenStreetMap.',
                                className = "p-1"),
-                        BeforeAfter(before="../assets/fgm_tanzania/BEFORE2.png", after="../assets/fgm_tanzania/AFTER.png", width=750, height=350, defaultProgress=0),
+                        BeforeAfter(before="../assets/fgm_tanzania/BEFORE2.png", after="../assets/fgm_tanzania/AFTER.png", width=750, height=350),
                     ],className="card_tanzania flex-column justify-content-center align-items-center", style = {'background':'', 'width': '750px'})
                 ])
 

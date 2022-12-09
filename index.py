@@ -22,7 +22,7 @@ from apps.Makeover_Mondays.Week_17_usa_price_parity import app14
 from apps.sports_viz_sunday_lacrosse import app15
 from apps.WorkOut_Wednesday.Week_17_US_Population import app16
 from apps.Makeover_Mondays.Week_18_Ceos_compensation import app17
-#from apps.Viz_for_social_good.FGM_tanzania import app18
+from apps.Viz_for_social_good.FGM_tanzania import app18
 from apps.WorkOut_Wednesday.Week_14_Financial_dashboard import app19
 from apps.Makeover_Mondays.Week_19_1gb_data_price import app20
 from apps.Makeover_Mondays.Week_20_beat_animal_unarmed_dumbbell_plot import app21
