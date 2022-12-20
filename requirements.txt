@@ -21,7 +21,7 @@ dash-table==5.0.0
 pytesseract==0.3.4
 imutils
 scikit-image
-opencv-python-headless==4.2.0.32
+opencv-python-headless
 beautifulsoup4==4.9.1
 requests==2.23.0
 openpyxl
