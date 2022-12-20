@@ -1,5 +1,5 @@
 pandas
-dash
+dash==2.3.0
 dash-bootstrap-components
 gunicorn==20.0.4
 plotly
@@ -25,3 +25,4 @@ opencv-python-headless==4.2.0.32
 beautifulsoup4==4.9.1
 requests==2.23.0
 openpyxl
+pip install werkzeug==2.0.3
