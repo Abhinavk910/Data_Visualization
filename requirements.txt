@@ -17,7 +17,7 @@ dash-cytoscape==0.2.0
 dash-daq==0.5.0
 dash-extensions==0.0.51
 dash-renderer==1.9.0
-dash-table==4.11.2
+dash-table==5.0.0
 pytesseract==0.3.4
 imutils
 scikit-image
