@@ -1,7 +1,5 @@
 pandas
 dash
-dash-core-components==1.15.0
-dash-html-components==1.1.2
 dash-bootstrap-components
 gunicorn==20.0.4
 plotly
