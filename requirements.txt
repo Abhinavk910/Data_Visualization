@@ -12,7 +12,7 @@ matplotlib
 numpy
 datetime
 dash-auth==1.4.1
-dash-canvas==0.1.0
+dash-canvas
 dash-cytoscape==0.2.0
 dash-daq==0.5.0
 dash-extensions==0.0.51
