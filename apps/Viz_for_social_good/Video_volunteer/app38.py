@@ -838,7 +838,7 @@ vv_layout = dmc.Paper(children=[
                                         nothingFound="No options found",
                                         id="column-select",
                                         value=["initial", "issue", "is_impact"],
-                                        icon=DashIconify(icon="material-symbols:event"),
+                                        icon=[DashIconify(icon="material-symbols:event")],
                                         data=[{'value':i, 'label':j} for i, j in dictionary_col_name.items()],
                                         radius=50,
                                         styles={
