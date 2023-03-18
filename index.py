@@ -40,6 +40,7 @@ from apps.Makeover_Mondays.Week_34_entry_level_job_uk import app34
 from apps.My_Own.wordcloud import app35
 from apps.Makeover_Mondays.Week_36_abortion_usa import app36
 from apps.My_Own.qty_cal import app37
+from apps.Viz_for_social_good.Video_volunteer import app38
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
@@ -116,6 +117,8 @@ def display_page(pathname):
         return app36.mmw36_viz
     elif pathname == '/apps/qty_cal':
         return app37.qty_cal_viz
+    elif pathname == '/apps/VideoVolunteers':
+        return app38.vv_layout
     else:
         return index_page.layout
 

@@ -26,3 +26,5 @@ beautifulsoup4
 requests
 openpyxl
 werkzeug==2.0.3
+dash_mantine_components
+dash_iconify

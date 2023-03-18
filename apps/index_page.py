@@ -80,6 +80,8 @@ layout = html.Div([
 
     html.Hr(style = {'background': '', 'width': "100%"}, className='mt-1 mb-1 p-0'),
     html.H2('Viz for social Good', className='mt-1 mb-1'),
+    dcc.Link('Video_volunteer(NGO) Dashboard', href='/apps/VideoVolunteers'),
+    html.Br(),
     dcc.Link('CROWD2MAP TANZANIA', href='/apps/crowd2map_tanzania'),
     html.Br(),
     dcc.Link('Vera Aqua Vera Vita', href='/apps/vavv'),
