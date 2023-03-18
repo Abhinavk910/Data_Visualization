@@ -636,10 +636,10 @@ vv_layout = dmc.Paper(children=[
                             children=[
                                 dmc.Group([
                                     dmc.Image(
-                                        src="/assets/VV_logo.png", alt="vv", width=150
+                                        src="../assets/video_vol/VV_logo.png", alt="vv", width=150
                                     ),
                                     dmc.Image(
-                                        src="/assets/VFSG_logo.png", alt="vv", width=150
+                                        src="/assets/video_vol/VFSG_logo.png", alt="vv", width=150
                                     )
                                 ])
                                 ], xs=6, sm=6, md=8, p=0),
