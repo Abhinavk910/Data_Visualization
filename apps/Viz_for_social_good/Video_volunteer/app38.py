@@ -653,7 +653,7 @@ vv_layout = dmc.Paper(children=[
                                     value="",
                                     size=20,radius=50,
                                     nothingFound="No options found",
-                                    icon=DashIconify(icon="fluent:real-estate-24-filled"),
+                                    icon=[DashIconify(icon="fluent:real-estate-24-filled")],
                                     styles={
                                         "input":{"color": selectcolor, "background-color": paper_color, 'fontSize':'12px',  'border':f'1px solid {selectcolor}'},
                                         "icon":{"color": selectcolor},
@@ -675,7 +675,7 @@ vv_layout = dmc.Paper(children=[
                                 size=20,
                                 radius=50,
                                 nothingFound="No options found",
-                                icon=DashIconify(icon="material-symbols:person"),
+                                icon=[DashIconify(icon="material-symbols:person")],
                                 styles={
 #                                         "dropdown":{"background-color": selectcolor},
                                     "input":{"color": selectcolor, "background-color": paper_color, 'fontSize':'12px', 'border':f'1px solid {selectcolor}'},
