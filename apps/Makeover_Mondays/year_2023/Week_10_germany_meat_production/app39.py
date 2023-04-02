@@ -140,7 +140,7 @@ mmw10_2033_layout = dmc.MantineProvider(
 			                    html.A(
 			                        dmc.Avatar(DashIconify(icon="mdi:github", width=15, color=paper_color),#'#24292f'
 			                            size="xs",radius="xs"),
-			                    href="https://github.com/Abhinavk910/Data-Visualization/tree/main/apps/Makeover_Mondays",
+			                    href="https://github.com/Abhinavk910/Data-Visualization/blob/main/apps/Makeover_Mondays/year_2023/Week_10_germany_meat_production/app39.py",
 			                    target="_blank",
 			                    )
 			                ], spacing='xs', position='right')
