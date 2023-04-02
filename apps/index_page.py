@@ -31,6 +31,8 @@ layout = html.Div([
     html.Hr(style = {'background': '', 'width': "100%"}, className='mt-1 mb-1 p-0'),
     html.H2('MakeOver Monday', className='mt-1 mb-1'),
 
+    dcc.Link('Makeover Monday Week 10 Germany Mean Production Declined', href='/apps/germany_mean_production'),
+    html.Br(),
     dcc.Link('Makeover Monday Week 36 Abortion in usa', href='/apps/usa_abortion'),
     html.Br(),
     dcc.Link('Makeover Monday Week 34 Entry Level Job Experience', href='/apps/uk_entry_level_job_exp'),
