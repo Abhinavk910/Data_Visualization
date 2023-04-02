@@ -126,7 +126,7 @@ mmw10_2033_layout = dmc.MantineProvider(
 			                                        target="_blank", style={'text-decoration': 'none', 'color':selectcolor})
 			                      ], align='center', color=paper_color, weight=700),  
 			                    html.A(
-			                        dmc.Avatar(src='https://github.com/Abhinavk910/portfolio/blob/main/img/img-2.jpg',
+			                        dmc.Avatar(src='header.jpg',
 			                            size="xs",radius="lg"),
 			                    href="https://abhinavk910.github.io/portfolio/",
 			                    target="_blank",
@@ -177,7 +177,7 @@ mmw10_2033_layout = dmc.MantineProvider(
 			            ])
 			        ],p=10, px=20, mb=10, radius=30,shadow="sm",mx=2, style={"background-color": containercolor}
 			        )
-			    ], style={'overflow-x': 'auto', 'max-width':'900px', 'min-width':'600px', 'margin':'auto'})
+			    ], style={'overflow-x': 'auto', 'width':'960px', 'min-width':'600px', 'margin':'auto'})
 			], size='auto',m=0,p=20, className='min-vh-100 mx-sm-0 mx-md-auto d-flex justify-content-center align-items-center', 
 			             style={"background-color": backcolor})
 
