@@ -126,7 +126,7 @@ mmw10_2033_layout = dmc.MantineProvider(
 			                                        target="_blank", style={'text-decoration': 'none', 'color':selectcolor})
 			                      ], align='center', color=paper_color, weight=700),  
 			                    html.A(
-			                        dmc.Avatar(src='assets/header.jpg',
+			                        dmc.Avatar(src='../assets/header.jpg',
 			                            size="xs",radius="lg"),
 			                    href="https://abhinavk910.github.io/portfolio/",
 			                    target="_blank",
