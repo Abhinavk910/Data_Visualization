@@ -111,7 +111,7 @@ containercolor= "#f1faee"
 paper_color = "#a8dadc"
 selectcolor = "#457b9d"
 
-mmw10_2033_layout = dmc.MantineProvider(
+mmw10_2023_layout = dmc.MantineProvider(
         theme={
             'fontFamily': '"Inter", sans-serif',
             },
