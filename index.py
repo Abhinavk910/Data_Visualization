@@ -124,7 +124,7 @@ def display_page(pathname):
     elif pathname == '/apps/germany_meat_production':
         return app39.mmw10_2023_layout
     elif pathname == '/apps/gender_pay_gap':
-        return app39.mmw13_2023_layout
+        return app40.mmw13_2023_layout
     else:
         return index_page.layout
 
