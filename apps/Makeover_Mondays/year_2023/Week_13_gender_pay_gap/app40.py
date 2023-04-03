@@ -59,8 +59,6 @@ annotations.append(dict(xref='paper', yref='paper',
 fig.update_layout(annotations=annotations)
 
 
-app = JupyterDash(__name__)
-
 backcolor = "#ECF9FF"
 containercolor= "#f1faee"
 paper_color = "#a8dadc"
