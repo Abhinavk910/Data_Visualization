@@ -21,6 +21,7 @@ df['Never Married'] = df['Never Married']*100
 df1 = df.query('Year == 2016')
 df2 = df.groupby(['Gender','Age Range', 'Year']).sum().unstack().reset_index()
 df2['difference'] = df2.apply(lambda x: x[3]-x[2], axis = 1)
+df2.columns = ['Gender', 'Age Range', 'Never Married 2016','Never Married 2006', 'Difference']
 df3 = pd.merge(df1, df2, left_on=['Gender', 'Age Range'], right_on=['Gender', 'Age Range']).iloc[:,[0,1,2,3,4,-1]]
 df3.columns = ['Gender', 'Age Range', 'Year', 'Never Married 2016','Never Married 2006', 'Difference']
 df4 = df3.groupby(['Age Range', 'Gender']).agg({'Difference':'sum', 'Never Married 2016':'sum','Never Married 2006':'sum'}).unstack()

@@ -121,7 +121,7 @@ def display_page(pathname):
         return app37.qty_cal_viz
     elif pathname == '/apps/VideoVolunteers':
         return app38.vv_layout
-    elif pathname == '/apps/germany_mean_production':
+    elif pathname == '/apps/germany_meat_production':
         return app39.mmw10_2023_layout
     elif pathname == '/apps/gender_pay_gap':
         return app39.mmw13_2023_layout
