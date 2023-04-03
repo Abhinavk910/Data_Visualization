@@ -120,7 +120,7 @@ app_layout = dmc.Container(children=[
             ])
         ],p=10, px=20, mb=10, radius=30,shadow="sm",mx=2, style={"background-color": containercolor}
         )
-    ], style={'overflow-x': 'auto', 'max-width':'900px', 'min-width':'600px', 'margin':'auto'})
+    ], style={'overflow-x': 'auto', 'width':'900px', 'min-width':'600px', 'margin':'auto'})
 ], size='auto',m=0,p=20, className='min-vh-100 mx-sm-0 mx-md-auto d-flex justify-content-center align-items-center', 
              style={"background-color": backcolor})
 
