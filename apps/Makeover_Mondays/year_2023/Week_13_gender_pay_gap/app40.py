@@ -74,7 +74,7 @@ app_layout = dmc.Container(children=[
                                         target="_blank", style={'text-decoration': 'none', 'color':selectcolor})
                       ], align='center', color=paper_color, weight=700),  
                     html.A(
-                        dmc.Avatar(src='https://github.com/Abhinavk910/portfolio/blob/main/img/img-2.jpg',
+                        dmc.Avatar(src='../assets/header.jpg',
                             size="xs",radius="lg"),
                     href="https://abhinavk910.github.io/portfolio/",
                     target="_blank",
