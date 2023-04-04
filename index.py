@@ -43,6 +43,7 @@ from apps.My_Own.qty_cal import app37
 from apps.Viz_for_social_good.Video_volunteer import app38
 from apps.Makeover_Mondays.year_2023.Week_10_germany_meat_production import app39
 from apps.Makeover_Mondays.year_2023.Week_13_gender_pay_gap import app40
+from apps.Makeover_Mondays.year_2023.Week_9_caffeine_count import app41
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
@@ -125,6 +126,8 @@ def display_page(pathname):
         return app39.mmw10_2023_layout
     elif pathname == '/apps/gender_pay_gap':
         return app40.mmw13_2023_layout
+    elif pathname == '/apps/caffeine_count':
+        return app41.mmw9_2023_layout
     else:
         return index_page.layout
 
