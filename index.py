@@ -130,7 +130,7 @@ def display_page(pathname):
     elif pathname == '/apps/caffeine_count':
         return app41.mmw9_2023_layout
     elif pathname == '/apps/ev_ms':
-        return app41.mmw7_2023_layout
+        return app42.mmw7_2023_layout
     else:
         return index_page.layout
 
