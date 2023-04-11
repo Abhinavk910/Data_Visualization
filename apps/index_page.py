@@ -37,6 +37,8 @@ layout = html.Div([
     html.Br(),
     dcc.Link('Makeover Monday Week 9 Caffeine Count', href='/apps/caffeine_count'),
     html.Br(),
+    dcc.Link('Makeover Monday Week 7 Electric Vehicle Market Share', href='/apps/ev_ms'),
+    html.Br(),
     dcc.Link('Makeover Monday Week 36 Abortion in usa', href='/apps/usa_abortion'),
     html.Br(),
     dcc.Link('Makeover Monday Week 34 Entry Level Job Experience', href='/apps/uk_entry_level_job_exp'),
