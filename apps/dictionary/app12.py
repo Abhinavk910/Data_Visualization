@@ -56,7 +56,7 @@ DATA_PATH = PATH.joinpath('../dictionary/').resolve()
 
 filename = DATA_PATH.joinpath("world_famous.png")
 img_app3 = io.imread(filename)
-height, width= img_app3.shape
+height, width= (300,300)
 canvas_width = 500
 canvas_height = round(height * canvas_width / width)
 scale = canvas_width / width
