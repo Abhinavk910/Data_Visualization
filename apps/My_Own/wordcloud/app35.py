@@ -388,7 +388,7 @@ myown2_viz = html.Div([
                 html.Span(' Frequent words ',
                           style={'color': heading_color[0]}),
                 ' Occuring in a Document or a Website ',
-                html.A('More Text Analysis...', href='http://nlp-app-abhinav.herokuapp.com/app/text_analysis', target="_blank", style={'color': heading_color[0]})
+                html.A('More Text Analysis...', href='https://nlp-app-production.up.railway.app/app/text_analysis', target="_blank", style={'color': heading_color[0]})
             ], style={'color': "#BBBBBA"}, className='m-0')
         ], className='')
     ], style={'background': '', 'width': '1200px', 'min-height': '100px'}, className='pt-4 pl-4'),
