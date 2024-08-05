@@ -25,7 +25,7 @@ opencv-python-headless
 beautifulsoup4
 requests
 openpyxl
-werkzeug==2.0.3
+werkzeug
 dash_mantine_components==0.11.1
 dash_iconify==0.1.2
 dash_breakpoints
